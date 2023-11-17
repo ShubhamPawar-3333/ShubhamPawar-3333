@@ -5,16 +5,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dilip-pawar)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubham.d.pawar.3333@gmail.com)
 
-Welcome to my Github page! I'm Shubham, an experienced Software Developer transitioning from a Linux support role. I bring a deep understanding of Data Structures, Algorithms, and proficient Object-Oriented Programming skills. Committed to crafting efficient, scalable software solutions, I'm ready to leverage my analytical prowess and coding acumen for your dynamic team.
+Welcome to my Github page! I'm Shubham, an experienced Software Engineer transitioning from a Linux support role. I bring a deep understanding of Data Structures, Algorithms, and proficient Object-Oriented Programming skills. Committed to crafting efficient, scalable software solutions, I'm ready to leverage my analytical prowess and coding acumen for your dynamic team.
 
 #### 🌱 Things I am currently working on: 
-- Transitioning from Linux support to Software Development
-- Enhancing skills in Data Science and Machine Learning
+- Transitioning from Linux support to Software Development.
+- Enhancing skills in Data Science and Machine Learning.
 - Developing innovative software solutions
 
 #### :muscle: Things I am challenging myself with:
 - Continuous learning and improvement in coding
-- Contributing to open source projects
 - Exploring new technologies and frameworks
 
 #### :computer: Programming languages and tools: 

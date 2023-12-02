@@ -4,6 +4,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shubham-dilip-pawar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dilip-pawar)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubham.d.pawar.3333@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/shubhamairspace)
+
 
 Welcome to my Github page! I'm Shubham, an experienced Software Engineer transitioning from a Linux support role. I bring a deep understanding of Data Structures, Algorithms, and proficient Object-Oriented Programming skills. Committed to crafting efficient, scalable software solutions, I'm ready to leverage my analytical prowess and coding acumen for your dynamic team.
 

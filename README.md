@@ -1,40 +1,44 @@
-### Hi there 👋 
-### This is Shubham Pawar!
+### Hi there 👋  
+### This is Shubham Pawar!  
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shubham-dilip-pawar)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dilip-pawar)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubham.d.pawar.3333@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/shubhamairspace)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShubhamPawar-3333)  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dilip-pawar)  
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuubham.pawar.368@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Google-Chrome&logoColor=white)](https://shubhampawar-3333.github.io/Portfolio/)  
 
+Welcome to my GitHub page! I'm Shubham, a passionate and skilled **DevOps Engineer** with experience in automating, scaling, and securing enterprise-grade infrastructure. My expertise lies in building CI/CD pipelines, leveraging cloud platforms, and optimizing application deployments for performance and reliability.  
 
-Welcome to my Github page! I'm Shubham, an experienced Software Engineer transitioning from a Linux support role. I bring a deep understanding of Data Structures, Algorithms, and proficient Object-Oriented Programming skills. Committed to crafting efficient, scalable software solutions, I'm ready to leverage my analytical prowess and coding acumen for your dynamic team.
+#### 🌱 Things I am currently working on:  
+- Advancing my expertise in **DevSecOps** practices.  
+- Building reusable infrastructure with **Terraform** and **Kubernetes**.  
 
-#### 🌱 Things I am currently working on: 
-- Transitioning from Linux support to Software Development.
-- Enhancing skills in Data Science and Machine Learning.
-- Developing innovative software solutions
+#### :muscle: Things I am challenging myself with:  
+- Enhancing knowledge of security in CI/CD workflows.  
+- Contributing to open-source DevOps projects.  
 
-#### :muscle: Things I am challenging myself with:
-- Continuous learning and improvement in coding
-- Exploring new technologies and frameworks
+#### :computer: Programming languages and tools:  
+<p>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>  
+<br />  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>  
+</p>  
 
-#### :computer: Programming languages and tools: 
-<p>
+#### 🏆 Certifications:  
+- **AWS Certified Cloud Practitioner (CLF-C02)**  
+- **RedHat Certified System Administrator (RHCSA-EX200)**  
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas-dev/pandas-dev-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/flask/flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+#### 📚 Recent Projects:  
+**Multi-Tier Healthcare Application Deployment**  
+- Automated deployment on **AWS EKS** using **Terraform**, **Jenkins**, and **Ansible**.  
+- Built CI/CD pipelines for optimized delivery using **Git**, **Maven**, and **Helm**.  
+- Ensured application performance with **Prometheus**, **Grafana**, and **CloudWatch**.  
 
-Feel free to explore my repositories and reach out if you find any interesting projects or opportunities! 😊
+Feel free to explore my repositories, and let’s connect if you find my projects interesting or would like to collaborate! 😊  

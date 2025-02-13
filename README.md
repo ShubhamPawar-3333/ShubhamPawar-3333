@@ -1,10 +1,7 @@
 ### Hi there 👋  
 ### This is Shubham Pawar!  
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShubhamPawar-3333)  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dilip-pawar)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuubham.pawar.368@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Google-Chrome&logoColor=white)](https://shubhampawar-3333.github.io/Portfolio/)  
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShubhamPawar-3333)   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dilip-pawar)  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shuubham.pawar.368@gmail.com)  [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Google-Chrome&logoColor=white)](https://shubhampawar-3333.github.io/Portfolio/)  
 
 Welcome to my GitHub page! I'm Shubham, a passionate and skilled **DevOps Engineer** with experience in automating, scaling, and securing enterprise-grade infrastructure. My expertise lies in building CI/CD pipelines, leveraging cloud platforms, and optimizing application deployments for performance and reliability.  
 
